@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Event XI Agency - Enquête Spéciale</string>
+
+    <!-- Global Menu Strings -->
+    <string name="menu_quitter">Quitter</string>
+    <string name="menu_a_propos">A Propos</string>
+
+    <!-- Main Activity Strings -->
+    <string name="main_equipName">Nom de l\'équipe</string>
+    <string name="main_code">Code de la Partie</string>
+    <string name="main_progress_joinning">Connexion en cours&#8230;</string>
+    <string name="main_action_join_short">Rejoindre la Partie</string>
+    <string name="main_action_join">Rejoindre la Partie</string>
+    <string name="main_error_field_required">Champ requis</string>
+    <string name="main_error_invalid_code">Code invalide</string>
+    <string name="main_error_incorrect_code">Partie inexistante</string>
+    <string name="main_error_exist_equipName">Nom d\'équipe déjà utilisé</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section1">Section 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_enquete">Enquête</string>
+
+</resources>
